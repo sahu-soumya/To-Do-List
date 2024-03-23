@@ -1,2 +1,3 @@
 # To-Do-List
  
+A complete To-do List App with CRUD operations in HTML, CSS, and JavaScript. CRUD operation means to Create, Read, Update, and Delete. If you don’t know, the to-do list app is a list of things that need to be done or want to be done. This app is generally used to maintain our day-to-day tasks list. In this to-do app, you can easily add, edit, delete, or mark tasks as complete. There are filter buttons too that help you filter the tasks accordingly. The tasks you add to this to-do app will be stored in the browser’s local storage so they won’t be removed on page refresh or tab close. You can also delete all tasks at once by clicking on the “Clear All” button.
